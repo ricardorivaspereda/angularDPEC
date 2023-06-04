@@ -22,11 +22,11 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "C:/Users/dani/Documents/Instituto/3er año/Practica 3/formdpec/dpec-main/node_modules/bootstrap/dist/css/bootstrap.css",
+            "styles": ["node_modules/bootstrap/dist/css/bootstrap.css"
+              ,
               "src/styles.css"
             ],
-            "scripts": ["C:/Users/dani/Documents/Instituto/3er año/Practica 3/formdpec/dpec-main/node_modules/bootstrap/dist/js/bootstrap.js"]
+            "scripts": ["node_modules/bootstrap/dist/js/bootstrap.js"]
           },
           "configurations": {
             "production": {
